@@ -32,9 +32,3 @@ I can also add, edit, delete, activate and deactivate captins' and customers' ac
 - Firebase platform.
 - REST API's.
 
-## Team
-- Anies Al-Rayyes.
-- Jamalat Shamallakh.
-- Shorouq Saad.
-- Nareman Hillis.
-- Dena Hijji.
